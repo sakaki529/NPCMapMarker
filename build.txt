@@ -5,5 +5,5 @@ hideCode = true
 hideResources = true
 includeSource = false
 includePDB = false
-buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, .git\*, Properties\*, .editorconfig, .gitattributes, .gitignore, idea.txt, README.md
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, .git\*, Properties\*, .editorconfig, .gitattributes, .gitignore, idea.txt, README.md, Assets\Preview\*
 side = Client
