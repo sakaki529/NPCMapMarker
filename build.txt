@@ -1,0 +1,9 @@
+displayName = NPC Map Marker
+author = Cleyera
+version = 0.1
+hideCode = true
+hideResources = true
+includeSource = false
+includePDB = false
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, .git\*, Properties\*, .editorconfig, .gitattributes, .gitignore, idea.txt, README.md
+side = Client

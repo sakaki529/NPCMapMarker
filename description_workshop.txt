@@ -1,0 +1,6 @@
+===========================================
+[h1]-Description-[/h1]
+===========================================
+Displays the location of NPCs on a map.
+Hostile NPCs are marked with red markers and friendly NPCs are marked with blue markers.
+===========================================
